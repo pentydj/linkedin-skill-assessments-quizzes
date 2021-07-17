@@ -424,14 +424,14 @@ D. Because you cannot create a search folder for a subfolder
 
 - [ ] importance level
 - [ ] priority level
-- [ ] category
+- [x] category
 - [ ] due date
 
 #### 59. What happens when you drag an email to the Calendar icon?
 
 - [ ] The Archive window opens.
 - [ ] Outlook schedule a reminder.
-- [ ] Outlook schedule a appointment.
+- [x] Outlook schedule a appointment.
 - [ ] The Work Week calendar view opens.
 
 #### 60. In this image, what do you use to move between Mail, Calendar, People and Tasks?
