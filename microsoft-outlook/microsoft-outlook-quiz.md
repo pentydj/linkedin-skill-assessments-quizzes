@@ -431,7 +431,7 @@ D. Because you cannot create a search folder for a subfolder
 
 - [ ] The Archive window opens.
 - [ ] Outlook schedule a reminder.
-- [ ] Outlook schedule a appointment.
+- [x] Outlook schedule a appointment.
 - [ ] The Work Week calendar view opens.
 
 #### 60. In this image, what do you use to move between Mail, Calendar, People and Tasks?
